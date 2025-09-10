@@ -1,18 +1,44 @@
-# 💫 About Me:
-Hi there 👋 My name is Azim<br><br>👀 I'm interested in everything about IT<br>🌱 I’m currently learning Django & HTMX<br>📫 How to reach me azza75python@gmail.com
+<div align="center">
+  <h1>Hi there! 👋 I'm Azim Gulyamov</h1>
+  <h3>Software Engineering Student | Full Stack Developer</h3>
+</div>
 
+### 🎓 About Me
+- 🏫 Currently studying Software Engineering at IT Park University
+- 💻 Passionate about building real-time applications and AI solutions
+- 🌱 Always learning and exploring new technologies
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/azim_gulyamov/) 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Azzimmka&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Azzimmka&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzimmka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Featured Projects
+1. [Real-Time Messenger](https://github.com/Azzimmka/Real-TIme-messenger) - A real-time messaging application
+2. [AI Teacher](https://github.com/Azzimmka/AI-teacher-) - Educational AI platform
+3. [Todo Application](https://github.com/Azzimmka/Todo-Application) - Task management system
+
+### 🌟 Current Focus
+- Developing real-time communication applications
+- Learning English and Mathematics
+- Exploring AI and Machine Learning
+
+### 🤝 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/azim-gulyamov-b09544373/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azim-gulyamov" height="30" width="40" /></a>
+<a href="https://www.instagram.com/azim_gulyamov/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azim_gulyamov" height="30" width="40" /></a>
+</p>
+
+### 😄 Fun Fact
+When I'm not coding, you might find me being lazy and lying on the bed - because even developers need their rest! 😴
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Azzimmka&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <i>Let's build something amazing together! Feel free to reach out for collaborations or just a friendly chat.</i>
+</div>
