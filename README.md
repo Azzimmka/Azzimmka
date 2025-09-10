@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Azim Gulyamov | <img width="40" height="40" alt="image" style="border-radius: 20px" src="https://github.com/user-attachments/assets/8a120f89-04c9-4247-8c69-8d0757a54fb3" /></h1>
+  <h1>Hi there! 👋 I'm Azim Gulyamov | <img width="40" height="40" alt="image" style="border-radius: 20px;  margin-bottom: 20px;" src="https://github.com/user-attachments/assets/8a120f89-04c9-4247-8c69-8d0757a54fb3" /></h1>
   <h3>Software Engineering Student at IT Park University 
 </h3>
 
