@@ -14,7 +14,7 @@
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /></td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /></td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" /></td>
-    <td align="center" width="60"><img src="https://atmaku.com/images/icons/tailwind.png" width="40" /></td>
+    <td align="center" width="60"><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="40" /></td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></td>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" /></td>
