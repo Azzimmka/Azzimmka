@@ -9,15 +9,17 @@
 - 🌱 Always learning and exploring new technologies
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" hspace="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" hspace="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" hspace="5"/>
-  <img src="https://atmaku.com/images/icons/tailwind.png" alt="tailwind" width="40" height="40" hspace="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" hspace="5"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" /></td>
+    <td align="center" width="60"><img src="https://atmaku.com/images/icons/tailwind.png" width="40" /></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" /></td>
+  </tr>
+</table>
 
 ### 🚀 Featured Projects
 1. [Real-Time Messenger](https://github.com/Azzimmka/Real-TIme-messenger) - A real-time messaging application
