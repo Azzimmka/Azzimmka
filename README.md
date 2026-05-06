@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Azim Gulyamov <h1>
-  <h3>Software Engineering Student at IT Park University   <img width="30" height="30" alt="image" style="border-radius: 20px;  margin-top: 10px;" src="https://github.com/user-attachments/assets/8a120f89-04c9-4247-8c69-8d0757a54fb3"/></
-</h3>
-
+  <h1>Hi there! 👋 I'm Azim Gulyamov</h1>
+  <h3>Software Engineering Student at IT Park University <img width="30" height="30" alt="itpark" style="border-radius: 20px; margin-top: 10px;" src="https://github.com/user-attachments/assets/8a120f89-04c9-4247-8c69-8d0757a54fb3"/></h3>
 </div>
 
 ### 🎓 About Me
@@ -11,14 +9,14 @@
 - 🌱 Always learning and exploring new technologies
 
 ### 🛠️ Tech Stack
-<p align="center" display="flex" >
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://atmaku.com/images/icons/tailwind.png" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" hspace="5"/>
+  <img src="https://atmaku.com/images/icons/tailwind.png" alt="tailwind" width="40" height="40" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" hspace="5"/>
 </p>
 
 ### 🚀 Featured Projects
@@ -38,7 +36,7 @@
 </p>
 
 ### 😄 Fun Fact
-When I'm not coding, you might find me being lazy and lying on the bed - because even developers need their rest! 😴
+Когда я не кодю, вы можете застать меня за ленивым отдыхом на кровати — потому что даже разработчикам нужна перезагрузка! 😴
 
 ---
 <div align="center">
